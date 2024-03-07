@@ -20,7 +20,7 @@ def kiir(bev_ossz, bev_atl, volt_5, hanyadik_5, index_5, db_5, bev_max):
     else:
         print(f"e. A taxis nem keresett ma öt piculát.")
     print(f"f. {db_5} ötpiculás bevétele volt a taxisnak.")
-    print(f"g. {bev_max} volt ma a taxis legjobb fuvarja.")
+    print(f"g. {bev_max} volt ma a taxis legjobb fuvarja")
 
 #Főprogram
 #input
