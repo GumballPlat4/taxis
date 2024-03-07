@@ -1,0 +1,10 @@
+Egy listában tároljuk, hogy egy taxis egy nap során hány piculát keresett az egyes fuvarjaival.
+bevetelek = [1,5,2,3,4]
+
+a. Mennyi pénze lett összesen?
+b. Átlagosan hány piculát keres a taxisunk egy fuvarral?
+c. Volt-e a taxisnak ma ötpiculás bevételű fuvara?
+d. A taxis bevételei közül hányadik volt az ötpiculás?
+e. Keressük azt a fuvart, amikor a taxis először keresett öt piculát.
+f. Hány ötpiculás bevétele volt a taxisnak?
+g. Melyik volt ma a taxis legjobb fuvarja?
